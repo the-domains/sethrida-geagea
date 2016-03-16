@@ -1,0 +1,28 @@
+name: Sethrida Geagea
+favicon: null
+layout_spectrum: 0.7868339256383479
+typography_spectrum: 0.578831051941961
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.46555253537371755
+  lightness: 0.9473972923588008
+  saturation: 0.528228482697159
+  rhythmicContrast: 0.9500591002870351
+purpose: []
